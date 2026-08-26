@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://2rqox1sbpblb"
+path="res://.godot/imported/exampole.dialogue-e5b345fd2b482fa8a119b5044226959f.tres"
+
+[deps]
+
+source_file="res://dialogues/exampole.dialogue"
+dest_files=["res://.godot/imported/exampole.dialogue-e5b345fd2b482fa8a119b5044226959f.tres"]
+
+[params]
+
+defaults=true
